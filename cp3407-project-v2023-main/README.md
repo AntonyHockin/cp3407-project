@@ -25,8 +25,9 @@ It is recommended to complete this assignment in a group of 2-4 students.
 
 Checklist: 
 1. github entry timestamp is BEFORE the iteration-1
-2. User stories are correct: see p39
-3. Must have more user stories than fits into iterations 1 and 2. To practice the priority.
+   - Project GitHub starting timestamp 15/09/23 (approx. 1:30pm)
+3. User stories are correct: see p39
+4. Must have more user stories than fits into iterations 1 and 2. To practice the priority.
 
 ### Iteration 1 [4-5 weeks], add your start and end dates 
 
