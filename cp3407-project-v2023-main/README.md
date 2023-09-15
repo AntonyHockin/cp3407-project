@@ -18,7 +18,7 @@ It is recommended to complete this assignment in a group of 2-4 students.
 1. Antony Hockin
 2. Joseph Hallows
 3. Jack Francis
-4. Haakonsolbakke. Lier
+4. Haakonsolbakke Lier
 
 
 # *General* project planning BEFORE iteration-1, (see chapters 1 and 2)
