@@ -54,3 +54,14 @@ Total: YY days
 2. [Iteration-2](./iteration_2.md)
 
 
+# Version Control
+During the development of the Yber Rent webpage, we recognized that the need for version control was minimal. Our approach differed from traditional web development; instead of writing HTML or PHP code from scratch, we opted for efficiency and chose WordPress as our platform. This allowed us to leverage the power of existing plugins and themes, saving time and resources. While code versioning wasn't a priority, our documentation deserved the best, and we turned to GitHub to maintain a thorough record of our processes and changes. For the more visual aspects of our Scrum and Agile development, we relied on Miro, ensuring that our collaborative efforts were well-organized and streamlined. This balanced approach allowed us to focus on delivering a user-friendly and visually engaging website while maintaining transparent and organized project management.
+
+
+# Building and Development Tools
+Yber Rent was developed using multiple different softwares and plugins, including:
+
+* WordPress: The main software used to build the site. It's database system also acts as the foundation of our users login / account system. Wordpress has a large variety of plugins that add additional features or change how certain features work. Finally, WordPress comes with many different themes that overhaul the CSS of a site, changing it's look and appearance.
+* Rentle: Rentle allows for our site's rental service, providing users with a timeframe to rent from, as well as handling transactions.
+* User Registration: The User Registration plugin for WordPress streamlines the process of creating a user login system by providing a user-friendly interface and customizable features, enabling website owners to easily manage user registrations, profiles, and access control with efficiency and precision.
+* WP Extended Search: The WP Extended Search plugin significantly enhanced the search feature by enabling it to detect tags on posts, thereby offering users a more comprehensive and accurate search experience, as it now includes tagged content in search results, improving content discoverability.
