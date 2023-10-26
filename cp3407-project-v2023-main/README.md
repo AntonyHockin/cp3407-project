@@ -1,13 +1,8 @@
 
-# cp3407-project-v2023 template [Delete or change to your team/project name before submitting]
+# CP3407- Best Team 
 
-This a project assignment template for CP3407. 
-The following is the list of items, which are required to be completed.
 
-## How to submit [You may delete this before submitting]
 
-1. Download your github repository as a zip file and submit via LearnJCU.
-2. Add your instructor (JCU-Australia: jc138691@gmail.com Dmitry Konovalov) as a team member to view your project on github
 
 ## Team
 
