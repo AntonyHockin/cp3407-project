@@ -14,7 +14,6 @@ Creating a user profile is the highest priority, since users need to register fi
 ## Assumptions (if any):
 
 ## Description: A user may fill out a form, including submitting their name, email, and password to become a renter/rentee.
-Description-v1: Used a user registration plug-in to extend the original WordPress capabilities
 
 ## Tasks (Iteration 1).
 
@@ -28,4 +27,3 @@ Description-v1: Used a user registration plug-in to extend the original WordPres
 
 # UI Design/Completed:
 * UI Design #1: https://miro.com/app/board/uXjVNWd_Ex8=/?share_link_id=497859882319
-
