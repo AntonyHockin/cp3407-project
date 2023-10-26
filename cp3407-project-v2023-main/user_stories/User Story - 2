@@ -1,0 +1,26 @@
+# Manage User Page
+
+Allows a user to manage their page.
+
+## Priority: 30
+A user must be able to manage their users page to set up their profile, ready to be a renter/rentee.
+
+## Estimation: 5 Days
+* Antony: 6 days
+* Haakon: 2 days
+* Jack: 5 days
+* Joe: 7 days
+
+## Assumptions (if any):
+
+## Description: A user may edit parts of their profile, such as their email, username and password. 
+
+## Tasks (Iteration 1).
+
+1. Task 1, 'Create A User Profile', Estimation 8 days
+2. Task 2, 'Manage User Page', Estimation 5 days
+3. Task 3, 'Add a New Vehicle to Profile', 7 days
+
+# UI Design/Completed:
+* UI Design #2: https://miro.com/app/board/uXjVNWd_Ex8=/?share_link_id=497859882319
+
