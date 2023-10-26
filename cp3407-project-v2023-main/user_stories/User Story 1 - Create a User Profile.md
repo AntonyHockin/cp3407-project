@@ -15,7 +15,7 @@ Creating a user profile is the highest priority, since users need to register fi
 
 ## Description: A user may fill out a form, including submitting their name, email, and password to become a renter/rentee.
 
-## Tasks (Iteration 1).
+## Tasks 1, 2, & 3 (Iteration 1), 4, 5, 6, & 7 (Iteration 2)
 
 1. Task 1, 'Create A User Profile', Estimation 8 days
 2. Task 2, 'Manage User Page', Estimation 5 days
