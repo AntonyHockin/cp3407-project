@@ -21,6 +21,10 @@ Description-v1: Used a user registration plug-in to extend the original WordPres
 1. Task 1, 'Create A User Profile', Estimation 8 days
 2. Task 2, 'Manage User Page', Estimation 5 days
 3. Task 3, 'Add a New Vehicle to Profile', 7 days
+4. Task 4, 'Rent a Vehicle', 7 days
+5. Task 5, 'Search Cars', 5 days
+6. Task 6, 'Filter Cars', 7 days
+7. Task 7, 'Well Designed UI', 5 days
 
 # UI Design/Completed:
 * UI Design #1: https://miro.com/app/board/uXjVNWd_Ex8=/?share_link_id=497859882319
