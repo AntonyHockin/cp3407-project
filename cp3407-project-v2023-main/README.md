@@ -1,6 +1,3 @@
-How to edit this: 
-* Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
-* Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated".
 
 # cp3407-project-v2023 template [Delete or change to your team/project name before submitting]
 
@@ -29,29 +26,9 @@ Checklist:
 3. User stories are correct: see p39
 4. Must have more user stories than fits into iterations 1 and 2. To practice the priority.
 
-### Iteration 1 [4-5 weeks], add your start and end dates 
+# Iterations and Agile Process
+Please see [Miro board](https://miro.com/app/board/uXjVMknJr7M=/) for Agile Process
 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
-
-Total: YY days
-
-
-### Iteration 2 [4-5 weeks], add your start and end dates
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
-
-Total: YY days
-
-### Not enough time/developers: 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
-
-Total: YY days
-
-# Actual iterations
-1. [Iteration-1](./iteration_1.md)
-2. [Iteration-2](./iteration_2.md)
 
 
 # Version Control
