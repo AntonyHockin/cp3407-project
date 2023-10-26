@@ -43,10 +43,12 @@ The user interface design aims to provide an exceptional user experience, enhanc
 
 ## Conclusion
 *Yber Rent*'s exemplary architectural, database, and user interface designs are the backbone of a reliable and user-friendly platform. The design choices we have taken are considered to ensure a secure, scalable, and enjoyable experience for both customers and administrators.
+Click [here](https://yber-rent.cloudaccess.host/) for the finished product.
 
 
 # Iterations and Agile Process
 Please see [Miro board](https://miro.com/app/board/uXjVMknJr7M=/) for Agile Process
+
 
 
 
