@@ -18,13 +18,8 @@ It is recommended to complete this assignment in a group of 2-4 students.
 4. Haakonsolbakke Lier
 
 
-# *General* project planning BEFORE iteration-1, (see chapters 1 and 2)
-
-Checklist: 
-1. github entry timestamp is BEFORE the iteration-1
-   - Project GitHub starting timestamp 15/09/23 (approx. 1:30pm)
-3. User stories are correct: see p39
-4. Must have more user stories than fits into iterations 1 and 2. To practice the priority.
+# Design
+*Yber Rent* is a website that allows users to register and put up listing of their cars to be rented. Other users of the site can see these listings and rent available cars. It can be thought of as AirBNB for cars. Users sign up for an account on the website and have permissions to create car listings. A merchant listing guide is also provided for users to follow, which acts as a template and also upholds the site's professional standard. After finishing the listing, an admin will review the post and verify that all the correct information is present. The posting will then be added with the users car linked to the *Yber Rent* Rentle platform, allowing for others to rent the car at the listed price.
 
 # Iterations and Agile Process
 Please see [Miro board](https://miro.com/app/board/uXjVMknJr7M=/) for Agile Process
@@ -36,7 +31,7 @@ During the development of the Yber Rent webpage, we recognized that the need for
 
 
 # Building and Development Tools
-Yber Rent was developed using multiple different softwares and plugins, including:
+*Yber Rent* was developed using multiple different softwares and plugins, including:
 
 * WordPress: The main software used to build the site. It's database system also acts as the foundation of our users login / account system. Wordpress has a large variety of plugins that add additional features or change how certain features work. Finally, WordPress comes with many different themes that overhaul the CSS of a site, changing it's look and appearance.
 * Rentle: Rentle allows for our site's rental service, providing users with a timeframe to rent from, as well as handling transactions.
